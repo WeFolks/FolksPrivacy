@@ -8,6 +8,10 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Folks App unless otherwise defined in this Privacy Policy.
 
+# Objectionable Content Policy
+
+Folks maintains a zero tolerance policy regarding objectionable content. Objectionable content may not be uploaded or displayed to the extent such content includes, is in conjunction with, or alongside any, Objectionable Content. Objectionable Content includes, but is not limited to: () sexually explicit materials: (H) obscene, defamatory, libelous, slanderous, violent and/or unlawful content or profanity: (i) content that infringes upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary right, or that is deceptive or fraudulent; (iv) content that promotes the use or sale of illegal or regulated substances, tobacco products ammunition and/or firearms; and (v) gambling, including without limitation, any online casino, sports books, bingo or poker. Any user can flag content they deem objectionable for review Content will be moderated by Folks to ensure the timely removal of any and all objectionable content. User accounts which have been confirmed responsible for posting objectionable content will be restricted from access to the Folks app
+
 # Information Collection and Use
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Email, Name, Order Transaction History, Ticket Transaction History, Mobile Number. The information that we request will be retained by us and used as described in this privacy policy.
