@@ -24,6 +24,12 @@ Google Play Services Firebase Analytics Crashlytics Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
+# Payments Collection and Disbursements
+
+Folks will collect all payments from event registrations on behalf of event creators. This is done to ensure smooth refund and waitlisting features in our platform. The total amount collected will be held by Folks until the event is marked as complete, at which point the entire amount will be dispersed to the event creator in one go. We take great care to ensure that payments are processed securely and efficiently.
+
+By using our platform, you agree to abide by our payment policies and procedures, and to cooperate with us in resolving any payment-related issues that may arise. If you have any questions or concerns about our payment policies or procedures, please do not hesitate to contact us. We are committed to providing a safe, reliable, and user-friendly platform for all of our users, and we appreciate your support in helping us achieve this goal.
+
 # Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
